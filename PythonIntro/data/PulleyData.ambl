@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Version>4.10.0.2063</Version>
+  <charset>utf-8</charset>
+  <ApplicationBuildDateTime>16-10-2019</ApplicationBuildDateTime>
+  <Copyright>Copyright (c) 2007-2019 Vernier Software &amp; Technology and its licensors</Copyright>
+  <FileName>PulleyData copy.ambl</FileName>
+  <CreatorOS>3</CreatorOS>
+  <CreatorApp>4</CreatorApp>
+  <AbsoluteVersion>4.10.0.2063</AbsoluteVersion>
+  <DataWorld>
+    <DataWorldRunPrefix>Run</DataWorldRunPrefix>
+    <MatrixDefaultPref>0</MatrixDefaultPref>
+    <UDMExperimentName>PulleyData copy.ambl</UDMExperimentName>
+  </DataWorld>
+  <Page>
+    <ID>102</ID>
+    <BroadcastTo>0</BroadcastTo>
+    <PageTable>
+      <ID>101</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>0</Visible>
+      <TableColumn>164 0.9</TableColumn>
+      <TableColumn>165 0.9</TableColumn>
+      <TableColumn>166 0.9</TableColumn>
+      <TableColumn>168 0.9</TableColumn>
+      <TableColumn>170 0.9</TableColumn>
+      <TableColumn>152 0.9</TableColumn>
+      <TableColumn>153 0.9</TableColumn>
+      <TableColumn>154 0.9</TableColumn>
+      <TableColumn>156 0.9</TableColumn>
+      <TableColumn>158 0.9</TableColumn>
+      <TableColumn>140 0.9</TableColumn>
+      <TableColumn>141 0.9</TableColumn>
+      <TableColumn>142 0.9</TableColumn>
+      <TableColumn>144 0.9</TableColumn>
+      <TableColumn>146 0.9</TableColumn>
+      <TableColumn>114 0.9</TableColumn>
+      <TableColumn>116 0.9</TableColumn>
+      <TableColumn>128 0.9</TableColumn>
+      <TableColumn>131 0.9</TableColumn>
+      <TableColumn>134 0.9</TableColumn>
+    </PageTable>
+    <PageGraphCartesian>
+      <ID>109</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>1</Visible>
+      <GraphPlotXMin>0.000000000000</GraphPlotXMin>
+      <GraphPlotXMax>0.210000000000</GraphPlotXMax>
+      <GraphPlotYMin>-0.046860520417</GraphPlotYMin>
+      <GraphPlotYMax>1.167369710336</GraphPlotYMax>
+      <UDMGraphPlotRightYMin>0.000000000000</UDMGraphPlotRightYMin>
+      <UDMGraphPlotRightYMax>1.000000000000</UDMGraphPlotRightYMax>
+      <UDMGraphPlotRightYEnabled>0</UDMGraphPlotRightYEnabled>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphShowPointProtectors>1</GraphShowPointProtectors>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <UDMGraphPlotRightYAutoscale>0</UDMGraphPlotRightYAutoscale>
+      <GraphPlotBaseColumnID>128</GraphPlotBaseColumnID>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphTitle></GraphTitle>
+      <GraphPlotTraceIDPairs>5 114 136 114 175 140 178 128 131 142 144</GraphPlotTraceIDPairs>
+    </PageGraphCartesian>
+    <PageGraphCartesian>
+      <ID>110</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>0</Visible>
+      <GraphPlotXMin>0.000000000000</GraphPlotXMin>
+      <GraphPlotXMax>0.250000000000</GraphPlotXMax>
+      <GraphPlotYMin>0.000000000000</GraphPlotYMin>
+      <GraphPlotYMax>1.000000000000</GraphPlotYMax>
+      <UDMGraphPlotRightYMin>0.000000000000</UDMGraphPlotRightYMin>
+      <UDMGraphPlotRightYMax>1.000000000000</UDMGraphPlotRightYMax>
+      <UDMGraphPlotRightYEnabled>0</UDMGraphPlotRightYEnabled>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphShowPointProtectors>1</GraphShowPointProtectors>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <UDMGraphPlotRightYAutoscale>0</UDMGraphPlotRightYAutoscale>
+      <GraphPlotBaseColumnID>114</GraphPlotBaseColumnID>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphTitle></GraphTitle>
+    </PageGraphCartesian>
+    <PageGraphCartesian>
+      <ID>111</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>0</Visible>
+      <GraphPlotXMin>0.000000000000</GraphPlotXMin>
+      <GraphPlotXMax>0.250000000000</GraphPlotXMax>
+      <GraphPlotYMin>0.000000000000</GraphPlotYMin>
+      <GraphPlotYMax>1.000000000000</GraphPlotYMax>
+      <UDMGraphPlotRightYMin>0.000000000000</UDMGraphPlotRightYMin>
+      <UDMGraphPlotRightYMax>1.000000000000</UDMGraphPlotRightYMax>
+      <UDMGraphPlotRightYEnabled>0</UDMGraphPlotRightYEnabled>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphShowPointProtectors>1</GraphShowPointProtectors>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <UDMGraphPlotRightYAutoscale>0</UDMGraphPlotRightYAutoscale>
+      <GraphPlotBaseColumnID>114</GraphPlotBaseColumnID>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphTitle></GraphTitle>
+    </PageGraphCartesian>
+    <PageMeter>
+      <ID>117</ID>
+      <MeterColumnID>116</MeterColumnID>
+      <Visible>0</Visible>
+    </PageMeter>
+  </Page>
+  <DataSet>
+    <ID>104</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 1</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>114</ID>
+      <ColumnGroupID>113</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 109</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>5</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.048454
+0.072716
+0.096655
+0.113197
+0.131425
+0.14481
+0.160137
+0.171626
+0.18511
+0.195315
+0.207495
+0.216786
+0.227937
+0.236532
+0.246901
+0.254964
+0.264684
+0.272275
+0.281494
+0.288688
+0.297444
+0.304336
+0.312694
+0.319307
+0.327326
+0.333667
+0.341378
+0.347467
+0.354925
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>116</ID>
+      <ColumnGroupID>115</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Gate State</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Gate State</ColumnMatchTag>
+      <ColumnCells>
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>128</ID>
+      <ColumnGroupID>127</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 109</BroadcastTo>
+      <DataObjectName>Distance</DataObjectName>
+      <ColumnUnits>m</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>7</ColumnPPStyle>
+      <DataObjectDataSource>129</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_DIST_0</UDMSensorMapId>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+      <ColumnCells>
+0
+Z1 1:
+0.015
+Z1 1:
+0.03
+Z1 1:
+0.045
+Z1 1:
+0.06
+Z1 1:
+0.075
+Z1 1:
+0.09
+Z1 1:
+0.105
+Z1 1:
+0.12
+Z1 1:
+0.135
+Z1 1:
+0.15
+Z1 1:
+0.165
+Z1 1:
+0.18
+Z1 1:
+0.195
+Z1 1:
+0.21
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>131</ID>
+      <ColumnGroupID>130</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 109</BroadcastTo>
+      <DataObjectName>Velocity</DataObjectName>
+      <ColumnUnits>m/s</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <DataObjectDataSource>132</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_VEL_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+0.311801488163
+Z1 1:
+0.42890915487
+Z1 1:
+0.520412218497
+Z1 1:
+0.598572232919
+Z1 1:
+0.667517329591
+Z1 1:
+0.730409251124
+Z1 1:
+0.787656741882
+Z1 1:
+0.840977969465
+Z1 1:
+0.890836583918
+Z1 1:
+0.936782371956
+Z1 1:
+0.980742241031
+Z1 1:
+1.02369669097
+Z1 1:
+1.06618385777
+Z1 1:
+Z1 1:
+</ColumnCells>
+      <DataObjectColor>0xd8d8 0x2626 0x2f2f</DataObjectColor>
+    </DataColumn>
+    <DataColumn>
+      <ID>134</ID>
+      <ColumnGroupID>133</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Acceleration</DataObjectName>
+      <ColumnUnits>m/s²</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <DataObjectDataSource>135</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_ACC_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+2.90223649422
+Z1 1:
+2.88357248812
+Z1 1:
+2.90537912212
+Z1 1:
+2.92397756212
+Z1 1:
+2.89687571761
+Z1 1:
+2.9614374987
+Z1 1:
+2.83695111238
+Z1 1:
+2.94877236669
+Z1 1:
+2.81156666092
+Z1 1:
+2.78714022233
+Z1 1:
+2.83145245085
+Z1 1:
+2.90690169267
+Z1 1:
+3.0105310095
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>139</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 2</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>140</ID>
+      <ColumnGroupID>113</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 109</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>5</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+5.083209
+5.291901
+5.458374
+5.555564
+5.648401
+5.709637
+5.777482
+5.823875
+5.876895
+5.914689
+5.958449
+5.989984
+6.026228
+6.053548
+6.085716
+6.110258
+6.138721
+6.159906
+6.184879
+6.204191
+6.226931
+6.244432
+6.265199
+6.281272
+6.300246
+6.314815
+6.33222
+6.34576
+6.362196
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>141</ID>
+      <ColumnGroupID>115</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Gate State</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Gate State</ColumnMatchTag>
+      <ColumnCells>
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>142</ID>
+      <ColumnGroupID>127</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 109</BroadcastTo>
+      <DataObjectName>Distance</DataObjectName>
+      <ColumnUnits>m</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3333 0x4545 0xaaaa</DataObjectColor>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>143</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_DIST_0</UDMSensorMapId>
+      <ColumnCells>
+0
+Z1 1:
+0.015
+Z1 1:
+0.03
+Z1 1:
+0.045
+Z1 1:
+0.06
+Z1 1:
+0.075
+Z1 1:
+0.09
+Z1 1:
+0.105
+Z1 1:
+0.12
+Z1 1:
+0.135
+Z1 1:
+0.15
+Z1 1:
+0.165
+Z1 1:
+0.18
+Z1 1:
+0.195
+Z1 1:
+0.21
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>144</ID>
+      <ColumnGroupID>130</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 109</BroadcastTo>
+      <DataObjectName>Velocity</DataObjectName>
+      <ColumnUnits>m/s</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>145</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_VEL_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+0.0543253321461
+Z1 1:
+0.0824315595012
+Z1 1:
+0.116850719473
+Z1 1:
+0.150173238414
+Z1 1:
+0.183784884156
+Z1 1:
+0.219152553906
+Z1 1:
+0.251055779461
+Z1 1:
+0.284564359628
+Z1 1:
+0.321465537541
+Z1 1:
+0.356548917247
+Z1 1:
+0.39071930958
+Z1 1:
+0.428114025599
+Z1 1:
+0.466715338435
+Z1 1:
+Z1 1:
+</ColumnCells>
+      <DataObjectColor>0x3b3b 0x8b8b 0xcccc</DataObjectColor>
+    </DataColumn>
+    <DataColumn>
+      <ID>146</ID>
+      <ColumnGroupID>133</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Acceleration</DataObjectName>
+      <ColumnUnits>m/s²</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>147</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_ACC_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+0.0194602325324
+Z1 1:
+0.193737882904
+Z1 1:
+0.253052404446
+Z1 1:
+0.330335241362
+Z1 1:
+0.409895246067
+Z1 1:
+0.529547472554
+Z1 1:
+0.474266810856
+Z1 1:
+0.707485266994
+Z1 1:
+0.779026895139
+Z1 1:
+0.805409356696
+Z1 1:
+0.892878078117
+Z1 1:
+1.1372367981
+Z1 1:
+1.16436489736
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>151</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 3</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>152</ID>
+      <ColumnGroupID>113</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>5</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>5</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.020892
+0.047042
+0.068046
+0.094315
+0.115438
+0.141898
+0.16317
+0.189796
+0.211128
+0.237735
+0.259146
+0.285769
+0.307226
+0.333962
+0.355521
+0.382454
+0.40414
+0.431245
+0.45298
+0.480353
+0.502301
+0.529898
+0.552096
+0.579862
+0.602176
+0.630083
+0.652525
+0.680639
+0.703248
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>153</ID>
+      <ColumnGroupID>115</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Gate State</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>6</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Gate State</ColumnMatchTag>
+      <ColumnCells>
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>154</ID>
+      <ColumnGroupID>127</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Distance</DataObjectName>
+      <ColumnUnits>m</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>7</ColumnPPStyle>
+      <DataObjectDataSource>155</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_DIST_0</UDMSensorMapId>
+      <ColumnCells>
+0
+Z1 1:
+0.015
+Z1 1:
+0.03
+Z1 1:
+0.045
+Z1 1:
+0.06
+Z1 1:
+0.075
+Z1 1:
+0.09
+Z1 1:
+0.105
+Z1 1:
+0.12
+Z1 1:
+0.135
+Z1 1:
+0.15
+Z1 1:
+0.165
+Z1 1:
+0.18
+Z1 1:
+0.195
+Z1 1:
+0.21
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>156</ID>
+      <ColumnGroupID>130</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Velocity</DataObjectName>
+      <ColumnUnits>m/s</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <DataObjectDataSource>157</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_VEL_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+0.318086835907
+Z1 1:
+0.316275626635
+Z1 1:
+0.314205475907
+Z1 1:
+0.313031615986
+Z1 1:
+0.312588527915
+Z1 1:
+0.311764513231
+Z1 1:
+0.310291915242
+Z1 1:
+0.308384474082
+Z1 1:
+0.306444693994
+Z1 1:
+0.304108109641
+Z1 1:
+0.301490958663
+Z1 1:
+0.299449965907
+Z1 1:
+0.297693551249
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>158</ID>
+      <ColumnGroupID>133</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Acceleration</DataObjectName>
+      <ColumnUnits>m/s²</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <DataObjectDataSource>159</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_ACC_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+-0.033041025942
+Z1 1:
+-0.0435866165507
+Z1 1:
+-0.0434255822484
+Z1 1:
+-0.00558940463634
+Z1 1:
+-0.0128960902942
+Z1 1:
+-0.021413552233
+Z1 1:
+-0.0396989740327
+Z1 1:
+-0.0389713699217
+Z1 1:
+-0.0405424784716
+Z1 1:
+-0.0546185687189
+Z1 1:
+-0.0510288620203
+Z1 1:
+-0.0306696711748
+Z1 1:
+-0.0392777475641
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>163</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 4</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>164</ID>
+      <ColumnGroupID>113</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>5</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.042873
+0.097074
+0.140887
+0.195734
+0.239888
+0.295104
+0.339497
+0.394591
+0.439268
+0.495229
+0.540788
+0.598374
+0.645569
+0.705502
+0.754441
+0.817299
+0.868545
+0.933909
+0.987338
+1.055492
+1.111054
+1.18172
+1.239173
+1.311055
+1.369028
+1.441559
+1.499772
+1.572437
+1.631035
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>165</ID>
+      <ColumnGroupID>115</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Gate State</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145890</StartTime>
+      <ColumnStartCollectTime>1573145890</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Gate State</ColumnMatchTag>
+      <ColumnCells>
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>166</ID>
+      <ColumnGroupID>127</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Distance</DataObjectName>
+      <ColumnUnits>m</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x5b5b 0x2c2c 0x6363</DataObjectColor>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>167</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_DIST_0</UDMSensorMapId>
+      <ColumnCells>
+0
+Z1 1:
+0.015
+Z1 1:
+0.03
+Z1 1:
+0.045
+Z1 1:
+0.06
+Z1 1:
+0.075
+Z1 1:
+0.09
+Z1 1:
+0.105
+Z1 1:
+0.12
+Z1 1:
+0.135
+Z1 1:
+0.15
+Z1 1:
+0.165
+Z1 1:
+0.18
+Z1 1:
+0.195
+Z1 1:
+0.21
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>168</ID>
+      <ColumnGroupID>130</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Velocity</DataObjectName>
+      <ColumnUnits>m/s</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>3</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>169</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_VEL_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+0.153289360118
+Z1 1:
+0.151496092911
+Z1 1:
+0.150862281792
+Z1 1:
+0.149916226286
+Z1 1:
+0.147259988186
+Z1 1:
+0.142774087897
+Z1 1:
+0.137157943207
+Z1 1:
+0.131461179698
+Z1 1:
+0.126058133224
+Z1 1:
+0.121145098237
+Z1 1:
+0.117422590744
+Z1 1:
+0.115460783224
+Z1 1:
+0.114775014504
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>170</ID>
+      <ColumnGroupID>133</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Acceleration</DataObjectName>
+      <ColumnUnits>m/s²</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1573145987</StartTime>
+      <ColumnStartCollectTime>1573145987</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>171</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <UDMSensorMapId>CC_VPG_ACC_0</UDMSensorMapId>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+-0.0253813156286
+Z1 1:
+-0.0109711515701
+Z1 1:
+-0.00178543731994
+Z1 1:
+-0.0172332386002
+Z1 1:
+-0.0355547361148
+Z1 1:
+-0.0514276729044
+Z1 1:
+-0.0534215670774
+Z1 1:
+-0.0484910693749
+Z1 1:
+-0.0441775949632
+Z1 1:
+-0.0366402000757
+Z1 1:
+-0.022340493469
+Z1 1:
+-0.00799634529017
+Z1 1:
+-0.00251319801075
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSourceServer>
+    <MBLLabQuestSource>
+      <ID>103</ID>
+      <BroadcastTo>0</BroadcastTo>
+    </MBLLabQuestSource>
+    <CalcColumnSource2>
+      <ID>120</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>119</CalcOutColumnID>
+      <CalcFunctionColumnArray>116</CalcFunctionColumnArray>
+      <CalcFunctionCoefficientArray>0 0.05 1 1</CalcFunctionCoefficientArray>
+      <CalcFunction>stepColumnBased()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>123</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>122</CalcOutColumnID>
+      <CalcFunctionColumnArray>119 114</CalcFunctionColumnArray>
+      <CalcFunction>derivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>126</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>125</CalcOutColumnID>
+      <CalcFunctionColumnArray>119 114</CalcFunctionColumnArray>
+      <CalcFunction>secondDerivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>129</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>128</CalcOutColumnID>
+      <CalcFunctionColumnArray>116</CalcFunctionColumnArray>
+      <CalcFunctionCoefficientArray>0 0.015 1 1</CalcFunctionCoefficientArray>
+      <CalcFunction>stepColumnBased()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>132</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>131</CalcOutColumnID>
+      <CalcFunctionColumnArray>128 114</CalcFunctionColumnArray>
+      <CalcFunction>derivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>135</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>134</CalcOutColumnID>
+      <CalcFunctionColumnArray>128 114</CalcFunctionColumnArray>
+      <CalcFunction>secondDerivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>148</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>142</CalcOutColumnID>
+      <CalcFunctionColumnArray>141</CalcFunctionColumnArray>
+      <CalcFunctionCoefficientArray>0 0.015 1 1</CalcFunctionCoefficientArray>
+      <CalcFunction>stepColumnBased()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>149</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>144</CalcOutColumnID>
+      <CalcFunctionColumnArray>142 140</CalcFunctionColumnArray>
+      <CalcFunction>derivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>150</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>146</CalcOutColumnID>
+      <CalcFunctionColumnArray>142 140</CalcFunctionColumnArray>
+      <CalcFunction>secondDerivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>160</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>154</CalcOutColumnID>
+      <CalcFunctionColumnArray>153</CalcFunctionColumnArray>
+      <CalcFunctionCoefficientArray>0 0.015 1 1</CalcFunctionCoefficientArray>
+      <CalcFunction>stepColumnBased()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>161</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>156</CalcOutColumnID>
+      <CalcFunctionColumnArray>154 152</CalcFunctionColumnArray>
+      <CalcFunction>derivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>162</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>158</CalcOutColumnID>
+      <CalcFunctionColumnArray>154 152</CalcFunctionColumnArray>
+      <CalcFunction>secondDerivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>172</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>166</CalcOutColumnID>
+      <CalcFunctionColumnArray>165</CalcFunctionColumnArray>
+      <CalcFunctionCoefficientArray>0 0.015 1 1</CalcFunctionCoefficientArray>
+      <CalcFunction>stepColumnBased()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>173</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>168</CalcOutColumnID>
+      <CalcFunctionColumnArray>166 164</CalcFunctionColumnArray>
+      <CalcFunction>derivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+    <CalcColumnSource2>
+      <ID>174</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <CalcOutColumnID>170</CalcOutColumnID>
+      <CalcFunctionColumnArray>166 164</CalcFunctionColumnArray>
+      <CalcFunction>secondDerivativeTimeShift()</CalcFunction>
+    </CalcColumnSource2>
+  </DataSourceServer>
+  <MBLBrain>
+    <MBLCollectionUserCollectMode>3</MBLCollectionUserCollectMode>
+    <MBLCollectionTimeUnit>1</MBLCollectionTimeUnit>
+    <MBLCollectionDeltaT>0.100000000000</MBLCollectionDeltaT>
+    <MBLCollectionMaxDuration>10.000000000000</MBLCollectionMaxDuration>
+    <MBLCollectionNumSamples>21</MBLCollectionNumSamples>
+    <MBLCollectionOversampling>0</MBLCollectionOversampling>
+    <MBLCollectionRepeat>0</MBLCollectionRepeat>
+    <MBLCollectionTriggerEnabled>0</MBLCollectionTriggerEnabled>
+    <MBLTriggerType>0</MBLTriggerType>
+    <MBLTriggerValue>0.000000000000</MBLTriggerValue>
+    <MBLTriggerPreTriggerData>0</MBLTriggerPreTriggerData>
+    <MBLChannel>
+      <ID>112</ID>
+      <MBLChannelSensorIDName>VPG</MBLChannelSensorIDName>
+      <MBLChannelSensorAutoID>4</MBLChannelSensorAutoID>
+      <MBLChannelCalibrationStorage>1</MBLChannelCalibrationStorage>
+      <MBLChannelReverse>0</MBLChannelReverse>
+      <MBLChannelX4Mode>0</MBLChannelX4Mode>
+      <MBLChannelResetOnCollect>0</MBLChannelResetOnCollect>
+      <MBLChannelTrigger>0</MBLChannelTrigger>
+      <MBLChannelManualSetup>0</MBLChannelManualSetup>
+      <MBLCalibration>
+        <MBLCalibrationUnits>PM</MBLCalibrationUnits>
+        <MBLCalibrationPrettyUnits></MBLCalibrationPrettyUnits>
+        <MBLCalibrationIDName>PHOTO_MOTION</MBLCalibrationIDName>
+        <MBLCalibrationIDValue>4</MBLCalibrationIDValue>
+        <MBLCalibrationEquationType>1</MBLCalibrationEquationType>
+        <MBLCalibrationCoefficients>2 0 1</MBLCalibrationCoefficients>
+      </MBLCalibration>
+      <MBLChannelIndex>5</MBLChannelIndex>
+      <MBLSensorSourceID>103</MBLSensorSourceID>
+      <MBLChannelMatch0>165</MBLChannelMatch0>
+    </MBLChannel>
+    <MBLCollectionUserCollectSubMode>1</MBLCollectionUserCollectSubMode>
+    <MBLCollectionDigitalModeDeviceType>0</MBLCollectionDigitalModeDeviceType>
+    <MBLCollectionDigitalModeBarWidth>0.015000000000</MBLCollectionDigitalModeBarWidth>
+    <MBLCollectionDigitalModeFlagWidth>0.050000000000</MBLCollectionDigitalModeFlagWidth>
+    <MBLCollectionDigitalModeGateSeperation>0.020000000000</MBLCollectionDigitalModeGateSeperation>
+    <MBLCollectionEndDigitalAfterNum>1</MBLCollectionEndDigitalAfterNum>
+    <MBLCollectionNumDigitalEvents>30</MBLCollectionNumDigitalEvents>
+  </MBLBrain>
+</Document>
